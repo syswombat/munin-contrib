@@ -9,6 +9,7 @@
 # Licence: Creative Commons - Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) 
 # http://creativecommons.org/licenses/by-sa/3.0/
 #
+# Anpassung an IOS: 6.20 neue upnp Pfade
 ##############################
 #%# family=auto
 #%# capabilities=autoconf
