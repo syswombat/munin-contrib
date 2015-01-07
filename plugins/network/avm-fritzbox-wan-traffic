@@ -10,7 +10,8 @@
 # http://creativecommons.org/licenses/by-sa/3.0/
 #
 # Modification by: Vincent Kocher
-# upnp path changed wiht AVM IOS 6.20 (7390)
+# Modification date: 07.01.2015
+# upnp path changed with AVM Fritzbox IOS 6.20 (7390)
 ##############################
 #%# family=auto
 #%# capabilities=autoconf
