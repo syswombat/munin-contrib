@@ -10,7 +10,7 @@
 ##############################
 # Modification by: Vincent Kocher / www.wombat.ch
 # Modification date/reason: 09.01.2015 / upnp path changed with AVM Fritzbox IOS 6.20 (7390)
-# Modification date/reason: 08.01.2015 / "graph_category" changed from Network to WAN
+# Modification date/reason: 08.01.2015 / "graph_category" Titel modified from Network to WAN
 ##############################
 #%# family=auto
 #%# capabilities=autoconf
