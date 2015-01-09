@@ -15,6 +15,7 @@
 #%# family=auto
 #%# capabilities=autoconf
 
+# if you don't get a graph, change "fritz.box" to your IP Adresse
 $host = "fritz.box";
 
 if(isset($argv[1]) && $argv[1] == "autoconf") {
