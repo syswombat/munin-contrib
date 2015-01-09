@@ -1,7 +1,6 @@
 #!/usr/bin/php
 <?php
 ##############################
-#
 # Plugin: AVM Fritz!Box WAN traffic (over UPNP)
 #
 # Author: Andreas Kreisl
