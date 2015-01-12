@@ -8,7 +8,7 @@
 # http://creativecommons.org/licenses/by-sa/3.0/
 ##############################
 # Modification by: Vincent Kocher / www.wombat.ch
-# Modicication data/reason: 11.01.2015 / removed all Max UP and Max Down and created new file
+# Modicication data/reason: 12.01.2015 / removed all Max UP and Max Down and created new file
 # Modification date/reason: 09.01.2015 / upnp path changed with AVM Fritzbox IOS 6.20 (7390)
 # Modification date/reason: 08.01.2015 / "graph_category" Titel modified from Network to WAN
 ##############################
@@ -33,7 +33,6 @@ if(isset($argv[1]) && $argv[1] == "autoconf") {
 	echo "down.type COUNTER\n";
 	echo "down.graph no\n";
 	echo "down.cdef down,8,*\n";
-	echo "down.max 1000000000\n";
 	echo "up.label " . $data_prop['NewWANAccessType'] . " (" . $data_prop['NewPhysicalLinkStatus'] . ")\n";
 	echo "up.type COUNTER\n";
 	echo "up.negative down\n";
