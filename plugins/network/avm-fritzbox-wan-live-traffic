@@ -39,7 +39,6 @@ if(isset($argv[1]) && $argv[1] == "autoconf") {
 	echo "up.negative down\n";
 	echo "up.draw AREA\n";
 	echo "up.cdef up,8,*\n";
-	echo "up.max 1000000000\n";
 	echo "up.info Traffic of the WAN interface.\n";
 } else {
 	$data_prop = GetCommonLinkProperties();
